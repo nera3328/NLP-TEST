@@ -1,1 +1,3 @@
-sss
+def hello():
+	print('hello')
+	print('nlp')
